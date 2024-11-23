@@ -11,7 +11,7 @@ PROMPT='%n %F{green}●%f ${PWD/#$HOME/~} %F{green}❯%f '
 
 Results: `sivadass ● ~/Development/personal/website ❯`
 
-VSCode Config:
+### VSCode Config:
 
 - Theme: [Cobalt2](https://marketplace.visualstudio.com/items?itemName=wesbos.theme-cobalt2)
 - Font Name: [OperatorMono-Book](/fonts/OperatorMono-Book.otf)
